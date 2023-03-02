@@ -69,6 +69,7 @@ stages = ['''
 import hangman_words
 list_of_words = hangman_words.word_list
 chosen_word = random.choice(list_of_words)
+# word is chosen from a hangman_words.py file word list randomly. 
 
 display = []
 
