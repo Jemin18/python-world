@@ -1,5 +1,6 @@
 import random
 from game_data import data
+# The data for this game is imported from the list of dictionaries of game_data.py file which is uploaded in this repository.
 logo = """
     __  ___       __             
    / / / (_)___ _/ /_  ___  _____
